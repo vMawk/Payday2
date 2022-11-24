@@ -1,2 +1,2 @@
 # Payday2
-Payday 2 Mods
+Mods and scripts for Payday 2
